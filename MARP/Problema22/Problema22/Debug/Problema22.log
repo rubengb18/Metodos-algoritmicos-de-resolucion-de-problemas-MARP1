@@ -1,0 +1,26 @@
+﻿  Problema11.cpp
+R:\TERCERO\MARP\Problema22\Problema22\Problema11.cpp(27,35): warning C4018: '<': no coinciden signed/unsigned
+R:\TERCERO\MARP\Problema22\Problema22\Problema11.cpp(60,17): warning C4018: '<': no coinciden signed/unsigned
+R:\TERCERO\MARP\Problema22\Problema22\Problema11.cpp(41,21): warning C4101: 'K': variable local sin referencia
+R:\TERCERO\MARP\Problema22\Problema22\PriorityQueue.h(39,2): warning C4018: '<': no coinciden signed/unsigned
+R:\TERCERO\MARP\Problema22\Problema22\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)"
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+R:\TERCERO\MARP\Problema22\Problema22\Problema11.cpp(25): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+R:\TERCERO\MARP\Problema22\Problema22\Problema11.cpp(25): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>
+          ]
+  Problema22.vcxproj -> R:\TERCERO\MARP\Problema22\Debug\Problema22.exe

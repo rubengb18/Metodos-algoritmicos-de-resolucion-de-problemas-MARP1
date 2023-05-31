@@ -1,0 +1,5 @@
+﻿  Problema10.cpp
+R:\TERCERO\MARP\Problema7\Problema7\Problema10.cpp(72,27): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema7\Problema7\Problema10.cpp(53,22): warning C4101: 'periodo': variable local sin referencia
+R:\TERCERO\MARP\Problema7\Problema7\Problema10.cpp(54,7): warning C4101: 'conectado': variable local sin referencia
+  Problema7.vcxproj -> R:\TERCERO\MARP\Problema7\Debug\Problema7.exe

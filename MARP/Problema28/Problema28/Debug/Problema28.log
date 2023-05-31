@@ -1,0 +1,3 @@
+﻿  Problema11.cpp
+R:\TERCERO\MARP\Problema28\Problema28\Problema11.cpp(22,30): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  Problema28.vcxproj -> R:\TERCERO\MARP\Problema28\Debug\Problema28.exe

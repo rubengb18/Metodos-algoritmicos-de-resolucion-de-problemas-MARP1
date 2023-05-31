@@ -1,0 +1,5 @@
+﻿  Problema12.cpp
+R:\TERCERO\MARP\Problema12\Problema12\Problema12.cpp(47,10): warning C4101: 'b': variable local sin referencia
+R:\TERCERO\MARP\Problema12\Problema12\Problema12.cpp(48,7): warning C4101: 'a_e': variable local sin referencia
+R:\TERCERO\MARP\Problema12\Problema12\Problema12.cpp(48,12): warning C4101: 'b_e': variable local sin referencia
+  Problema12.vcxproj -> R:\TERCERO\MARP\Problema12\Debug\Problema12.exe

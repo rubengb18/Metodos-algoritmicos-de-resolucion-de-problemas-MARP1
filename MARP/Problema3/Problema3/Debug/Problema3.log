@@ -1,0 +1,12 @@
+﻿  Problema1.cpp
+R:\TERCERO\MARP\Problema3\Problema3\Problema1.cpp(20,22): warning C4244: '+=': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+R:\TERCERO\MARP\Problema3\Problema3\Problema1.cpp(22,22): warning C4244: '+=': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+  Problema3.vcxproj -> R:\TERCERO\MARP\Problema3\Debug\Problema3.exe

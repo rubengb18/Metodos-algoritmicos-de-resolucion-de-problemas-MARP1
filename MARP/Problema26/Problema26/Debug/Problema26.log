@@ -1,0 +1,8 @@
+﻿  Problema11.cpp
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(23,11): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(23,21): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(24,8): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(24,18): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(25,21): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+R:\TERCERO\MARP\Problema26\Problema26\Problema11.cpp(25,13): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Problema26.vcxproj -> R:\TERCERO\MARP\Problema26\Debug\Problema26.exe
